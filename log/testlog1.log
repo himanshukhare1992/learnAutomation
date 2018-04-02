@@ -1,0 +1,22 @@
+2018-01-09 13:25:31,341 [main] INFO GenerateLog - :::::Started Google Homepage:::::
+2018-01-09 13:25:33,352 [main] INFO GenerateLog - :::::Wait 2 sec:::::
+2018-01-09 13:25:40,254 [main] INFO GenerateLog - :::::Found Gmail Link:::::
+2018-01-09 13:25:42,254 [main] INFO GenerateLog - :::::Wait 2 sec:::::
+2018-01-09 13:25:43,073 [main] INFO GenerateLog - :::::Entered Email Id in Email Box:::::::::
+2018-01-09 13:25:45,074 [main] INFO GenerateLog - :::::Wait 2 sec:::::
+2018-01-09 13:25:45,716 [main] INFO GenerateLog - :::::Clicked Next Button:::::
+2018-01-09 13:25:47,717 [main] INFO GenerateLog - :::::Wait 2 sec:::::
+2018-01-09 13:30:30,122 [main] INFO GenerateLog - :::::Started Google Homepage:::::
+2018-01-09 13:30:32,130 [main] INFO GenerateLog - :::::Wait 2 sec:::::
+2018-01-09 13:30:43,713 [main] INFO GenerateLog - :::::Found Gmail Link:::::
+2018-01-09 13:30:45,714 [main] INFO GenerateLog - :::::Wait 2 sec:::::
+2018-01-09 13:30:46,541 [main] INFO GenerateLog - :::::Entered Email Id in Email Box:::::::::
+2018-01-09 13:30:48,544 [main] INFO GenerateLog - :::::Wait 2 sec:::::
+2018-01-09 13:30:49,190 [main] INFO GenerateLog - :::::Clicked Next Button:::::
+2018-01-09 13:30:54,191 [main] INFO GenerateLog - :::::Wait 5 sec:::::
+2018-01-09 13:30:54,534 [main] INFO GenerateLog - :::::Entered Password in Password Box:::::
+2018-01-09 13:30:56,535 [main] INFO GenerateLog - :::::Wait 2 sec:::::
+2018-01-09 13:31:33,275 [main] INFO GenerateLog - :::::Clicked Next Button:::::
+2018-01-09 13:31:35,276 [main] INFO GenerateLog - :::::Wait 2 sec:::::
+2018-01-09 13:31:35,305 [main] INFO GenerateLog - :::::Retrieving PageTitle:::::
+2018-01-09 13:31:35,306 [main] INFO GenerateLog - :::::PageTitle Retrieved Successfully:::::

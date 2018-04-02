@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+	<!--  
+		Below listeners will apply through out your TestSuite.
+		It doesn't matter how many classes you have.
+		Let say- You have 10 Classes & 50 Test cases	
+	-->
+	
+	<listeners>
+		<listener class-name="listenersDemo.TestNG_Listeners">  </listener>
+	</listeners>
+	
+
+  <test name="Test">
+    <classes>
+      <class name="listenersDemo.My1stTestCase_UsingListerners"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

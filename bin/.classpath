@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="F:/PERSONAL/VIDEO TUTORIALS/Testing/Selenium/Selenium Essentials/selenium-server-standalone-3.5.3/selenium-server-standalone-3.5.3.jar" sourcepath="F:/PERSONAL/VIDEO TUTORIALS/Testing/Selenium/Selenium Essentials/selenium-java-3.5.3/client-combined-3.5.3-nodeps-sources.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="http://seleniumhq.github.io/selenium/docs/api/java/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/PERSONAL/VIDEO TUTORIALS/Testing/Selenium/Selenium Essentials/Log4j/log4j.jar"/>
+	<classpathentry kind="lib" path="F:/PERSONAL/VIDEO TUTORIALS/Testing/Selenium/Selenium Essentials/ApachePOI/poi-3.17/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/PERSONAL/VIDEO TUTORIALS/Testing/Selenium/Selenium Essentials/ApachePOI/poi-3.17/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/PERSONAL/VIDEO TUTORIALS/Testing/Selenium/Selenium Essentials/ApachePOI/poi-3.17/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/PERSONAL/VIDEO TUTORIALS/Testing/Selenium/Selenium Essentials/ApachePOI/poi-3.17/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/PERSONAL/VIDEO TUTORIALS/Testing/Selenium/Selenium Essentials/ApachePOI/poi-3.17/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/PERSONAL/VIDEO TUTORIALS/Testing/Selenium/Selenium Essentials/ApachePOI/poi-3.17/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/PERSONAL/VIDEO TUTORIALS/Testing/Selenium/Selenium Essentials/ApachePOI/poi-3.17/ooxml-lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="F:/PERSONAL/VIDEO TUTORIALS/Testing/Selenium/Selenium Essentials/ApachePOI/poi-3.17/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="F:/PERSONAL/VIDEO TUTORIALS/Testing/Selenium/Selenium Essentials/ApachePOI/poi-3.17/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="F:/PERSONAL/VIDEO TUTORIALS/Testing/Selenium/Selenium Essentials/ApachePOI/poi-3.17/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="F:/PERSONAL/VIDEO TUTORIALS/Testing/Selenium/Selenium Essentials/ApachePOI/poi-3.17/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/PERSONAL/VIDEO TUTORIALS/Testing/Selenium/Selenium Essentials/ApachePOI/poi-3.17/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="F:/PERSONAL/VIDEO TUTORIALS/Testing/Selenium/Selenium Essentials/ApachePOI/poi-3.17/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="F:/PERSONAL/VIDEO TUTORIALS/Testing/Selenium/Selenium Essentials/Jar_Files_For_ExcelOperations/JExcelApi jar/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="F:/PERSONAL/VIDEO TUTORIALS/Testing/Selenium/Selenium Essentials/ExtentsReport_Jar/extentreports-1.4.jar"/>
+	<classpathentry kind="lib" path="F:/PERSONAL/VIDEO TUTORIALS/Testing/Selenium/Selenium Essentials/ExtentsReport_Jar/extentreports-1.4-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

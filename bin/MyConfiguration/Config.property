@@ -1,0 +1,7 @@
+ChromeDriver	=  F:\\PERSONAL\\VIDEO TUTORIALS\\Testing\\Selenium\\Selenium Essentials\\Chrome Driver (32bits)\\chromedriver.exe
+
+IEDriver			=  F:\\PERSONAL\\VIDEO TUTORIALS\\Testing\\Selenium\\Selenium Essentials\\IE Driver (64 Bits)\\IEDriverServer.exe
+
+URL					=  https://www.google.com
+
+ExcelPath			=

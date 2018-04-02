@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="DemoXMLFile" duration-ms="47" started-at="2018-01-30T14:36:21Z" finished-at="2018-01-30T14:36:21Z">
+    <groups>
+    </groups>
+    <test name="demoXMLTestCase" duration-ms="47" started-at="2018-01-30T14:36:21Z" finished-at="2018-01-30T14:36:21Z">
+      <class name="random.XMLdemo">
+        <test-method status="PASS" signature="displayResult()[pri:0, instance:random.XMLdemo@3a82f6ef]" name="displayResult" duration-ms="13" started-at="2018-01-30T20:06:21Z" finished-at="2018-01-30T20:06:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayResult -->
+      </class> <!-- random.XMLdemo -->
+    </test> <!-- demoXMLTestCase -->
+  </suite> <!-- DemoXMLFile -->
+</testng-results>
